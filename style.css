@@ -14,6 +14,7 @@
   align-items: center;
   background-color: #aa4203;
   padding: 22px 50px;
+  position: sticky;
 }
 
 .header .nav * {
